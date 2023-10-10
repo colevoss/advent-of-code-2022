@@ -5,3 +5,4 @@
 ## Days
 
 - [Day 1](/dayone/main.go)
+- [Day 2](/daytwo/main.go)
